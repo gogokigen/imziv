@@ -7,6 +7,8 @@
 * [好好笑的判決書](hao-hao-xiao-de-pan-jue-shu/README.md)
   * [民事](hao-hao-xiao-de-pan-jue-shu/min-shi/README.md)
     * [本院不懂讀心術](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)
+* [別有風味的判決書](bie-you-feng-wei-de-pan-jue-shu/README.md)
+  * [小朋友別看](bie-you-feng-wei-de-pan-jue-shu/xiao-peng-you-bie-kan.md)
 * [資料研究](zi-liao-yan-jiu.md)
 * [Python](python.md)
 * [法學院生活實錄](fa-xue-yuan-sheng-huo-shi-lu.md)
