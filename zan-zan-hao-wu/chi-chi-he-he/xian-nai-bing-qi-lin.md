@@ -19,3 +19,5 @@ description: 義美鮮乳雪糕超好吃
 <figure><img src="../../.gitbook/assets/meiji_icecream.png" alt="" width="294"><figcaption><p>ブルガリア フローズンヨーグルトデザート</p></figcaption></figure>
 
 　　如果你喜歡濃厚奶味的層次豐富的雪糕，那你千萬不要錯過這支。相較起來，義美的鮮乳雪糕也是乾淨明亮，吃起來很清爽。我感覺運動完的汗水都被一陣清風帶走。推薦給即將進入夏天，運動完滿身是汗，想吃隻鮮乳雪糕的朋友－－【義美鮮乳雪糕】
+
+_March 27, 2024_

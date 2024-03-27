@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+---
+
 # 望子成龍，不如我成龍
 
 　　由於年紀也差不多了，認識的人除了討論買房外最多的話題就是小孩（薪水獎金其實也沒什麼好說了，大家混久就彼此知道了）。開始會討論要不要送私立小學、上了什麼才藝班……之類的，我覺得沒什麼好談的議題。
@@ -29,3 +43,5 @@
 > **你要小孩輕易的自我實現夢想，最直接的方式就是增加你的財力，社交力，影響力，與權力。**
 
 Ref. [小孩出人頭地的最短路徑](https://attlin.com/2024/02/22/high-achieving-kids/)
+
+_March 27, 2024_
