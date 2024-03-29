@@ -19,7 +19,7 @@ layout:
 
 ***
 
-## [望子成龍，不如我成龍](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/wang-zi-cheng-long-bu-ru-wo-cheng-long.md)
+## [<mark style="color:blue;">望子成龍，不如我成龍</mark>](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/wang-zi-cheng-long-bu-ru-wo-cheng-long.md)
 
 
 
