@@ -36,6 +36,7 @@
   * [大哉問](wo-bu-hui-jiao-xiao-hai/da-zai-wen.md)
 * [讚讚好物](zan-zan-hao-wu/README.md)
   * [🍹 吃吃喝喝](zan-zan-hao-wu/chi-chi-he-he/README.md)
+    * [薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)
     * [鮮奶冰淇淋](zan-zan-hao-wu/chi-chi-he-he/xian-nai-bing-qi-lin.md)
   * [🎮 休閒娛樂](zan-zan-hao-wu/xiu-xian-yu-le.md)
   * [🛋️ 家具家電](zan-zan-hao-wu/jia-ju-jia-dian.md)
