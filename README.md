@@ -17,6 +17,26 @@ layout:
 
 是到了該寫點什麼增加地球碳排放量的年紀了
 
+
+
+***
+
+## [薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)
+
+
+
+　　忘記怎麼開始喜歡上薄荷巧克力的，應該不是因為他是綠色的吧？可能是小時候非常躁熱，普通冰淇淋無法降溫，都要吃超級幹爆涼爽勁直沖天門的薄荷口味吧？
+
+　　這邊記錄我吃過推薦的薄荷巧克力冰淇淋或雪糕，以及根本就是在吃牙膏的爆雷款。
+
+#### 超級推推 <a href="#chao-ji-tui-tui" id="chao-ji-tui-tui"></a>
+
+Baskin-Robbins ( 31 冰淇淋 )
+
+Maccanti ( 馬卡諦 )
+
+[( ...... )](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)
+
 ***
 
 ## [<mark style="color:blue;">本院不懂讀心術</mark>](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)
@@ -58,6 +78,8 @@ layout:
 ***
 
 ### 文章列表
+
+[薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md) _March 30, 2024_
 
 [本院不懂讀心術](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md) _March 29, 2024_
 
