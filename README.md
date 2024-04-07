@@ -17,7 +17,15 @@ layout:
 
 是到了該寫點什麼增加地球碳排放量的年紀了
 
+***
 
+## [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
+
+<figure><img src=".gitbook/assets/reform_mathematics_minus.JPG" alt="" width="375"><figcaption></figcaption></figure>
+
+　　認真說起來我第一眼看到的時候真的有倒抽一口氣，結果 ......
+
+[( ...... )](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
 
 ***
 
@@ -78,6 +86,8 @@ Maccanti ( 馬卡諦 )
 ***
 
 ### 文章列表
+
+[建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md) _April 07, 2024_
 
 [薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md) _March 30, 2024_
 
