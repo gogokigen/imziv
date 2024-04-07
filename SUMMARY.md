@@ -32,7 +32,7 @@
 * [我不會教小孩](wo-bu-hui-jiao-xiao-hai/README.md)
   * [觀察體會](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/README.md)
     * [望子成龍，不如我成龍](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/wang-zi-cheng-long-bu-ru-wo-cheng-long.md)
-  * [教數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/README.md)
+  * [教數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue.md)
     * [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
   * [大哉問](wo-bu-hui-jiao-xiao-hai/da-zai-wen.md)
 * [讚讚好物](zan-zan-hao-wu/README.md)
