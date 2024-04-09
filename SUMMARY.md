@@ -13,7 +13,7 @@
 * [資料研究](zi-liao-yan-jiu.md)
 * [Python](python.md)
 * [法學院生活實錄](fa-xue-yuan-sheng-huo-shi-lu/README.md)
-  * [校學生活](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo/README.md)
+  * [校學生活](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo.md)
     * [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
   * [讀書心得](fa-xue-yuan-sheng-huo-shi-lu/du-shu-xin-de.md)
   * [實務見聞](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen.md)

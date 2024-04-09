@@ -19,6 +19,18 @@ layout:
 
 ***
 
+## [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
+
+
+
+　　在以前當 TA，家教，或是補習班老師時候，常常在想像：如果我是我學生，到底有沒有聽懂我在講什麼？我這樣的說話方式，學生聽起來覺得如何？
+
+　　很神奇，我在這次校園生活的這學期一門課上，彷彿看到自己在講課。哈哈哈
+
+[( ...... )](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
+
+***
+
 ## [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
 
 <figure><img src=".gitbook/assets/reform_mathematics_minus.JPG" alt="" width="375"><figcaption></figcaption></figure>
@@ -86,6 +98,8 @@ Maccanti ( 馬卡諦 )
 ***
 
 ### 文章列表
+
+[好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo/hao-xiang-kan-dao-zi-ji.md) _April 09, 2024_
 
 [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md) _April 07, 2024_
 
