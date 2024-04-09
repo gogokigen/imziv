@@ -19,7 +19,7 @@ layout:
 
 ***
 
-## [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
+## [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
 
 
 
@@ -27,7 +27,7 @@ layout:
 
 　　很神奇，我在這次校園生活的這學期一門課上，彷彿看到自己在講課。哈哈哈
 
-[( ...... )](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
+[( ...... )](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
 
 ***
 
@@ -99,7 +99,7 @@ Maccanti ( 馬卡諦 )
 
 ### 文章列表
 
-[好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xiao-xue-sheng-huo/hao-xiang-kan-dao-zi-ji.md) _April 09, 2024_
+[好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md) _April 09, 2024_
 
 [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md) _April 07, 2024_
 
