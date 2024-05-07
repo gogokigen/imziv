@@ -17,6 +17,20 @@ layout:
 
 是到了該寫點什麼增加地球碳排放量的年紀了
 
+
+
+***
+
+## [拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md)
+
+
+
+　　債各老師這週發火，因為有同學上課一直拿手機拍黑板。其實，拍黑板的事老師之前就強調過了：不要錄影、等他離開中間時再拍。但是這次是－－非。常。鄭。重。的說不要這樣！不過，我最欣賞的是，老師直接說：「我不喜歡！」非常好！比起冠冕堂皇的說什麼些什麼理由解釋，直接說出心裡的感受，才是最重要最真實的原因。
+
+　　我好像可以理解這種不自在 ……
+
+[( …… )](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md)
+
 ***
 
 ## [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
@@ -85,19 +99,9 @@ Maccanti ( 馬卡諦 )
 
 ***
 
-## [<mark style="color:blue;">望子成龍，不如我成龍</mark>](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/wang-zi-cheng-long-bu-ru-wo-cheng-long.md)
-
-
-
-　　由於年紀也差不多了，認識的人除了討論買房外最多的話題就是小孩（薪水獎金其實也沒什麼好說了，大家混久就彼此知道了）。開始會討論要不要送私立小學、上了什麼才藝班……之類的，我覺得沒什麼好談的議題。
-
-　　沒什麼好談不是我認為這些話題對小孩不重要，而是對於要透過這些方法達到的目的不重要。
-
-[<mark style="color:blue;">( ...... )</mark>](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/wang-zi-cheng-long-bu-ru-wo-cheng-long.md)
-
-***
-
 ### 文章列表
+
+[拍照二三四](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md) _May 07, 2024_
 
 [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md) _April 09, 2024_
 
