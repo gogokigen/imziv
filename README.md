@@ -100,7 +100,7 @@ Maccanti ( 馬卡諦 )
 
 ### 文章列表
 
-[拍照二三四](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md) _May 07, 2024_
+[拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md) _May 07, 2024_
 
 [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md) _April 09, 2024_
 
