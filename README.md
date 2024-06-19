@@ -19,6 +19,16 @@ layout:
 
 ***
 
+## [建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)
+
+
+
+> A personal moat is a set of unique and accumulating competitive advantages in the context of your career. -- [Erik Torenberg](https://eriktorenberg.substack.com/p/build-personal-moats)
+
+[( ...... )](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)
+
+***
+
 ## [拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md)
 
 
@@ -86,19 +96,9 @@ Maccanti ( 馬卡諦 )
 
 ***
 
-## [<mark style="color:blue;">法學就很像數學？</mark>](ji-guang-pian-yu/xin-de-jiao-la/fa-xue-jiu-hen-xiang-shu-xue.md)
-
-
-
-　　由於年紀也差不多了，認識的人除了討論買房外最多的話題就是小孩（薪水獎金其實也沒什麼好說了，大家混久就彼此知道了）。開始會討論要不要送私立小學、上了什麼才藝班……之類的，我覺得沒什麼好談的議題。
-
-　　沒什麼好談不是我認為這些話題對小孩不重要，而是對於要透過這些方法達到的目的不重要。
-
-[<mark style="color:blue;">( ...... )</mark>](ji-guang-pian-yu/xin-de-jiao-la/fa-xue-jiu-hen-xiang-shu-xue.md)
-
-***
-
 ### 文章列表
+
+[建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md) _June 19, 2024_
 
 [拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md) _May 07, 2024_
 
