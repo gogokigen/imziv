@@ -29,6 +29,8 @@
     * [技術人如何朝三百萬邁進](guan-yu-gong-cheng-shi-zhe-ge-fu-ben/shi-ren-ya-hui/ji-shu-ren-ru-he-zhao-san-bai-wan-mai-jin.md)
     * [測試儀器自動化程式設計的工作](guan-yu-gong-cheng-shi-zhe-ge-fu-ben/shi-ren-ya-hui/ce-shi-yi-qi-zi-dong-hua-cheng-shi-she-ji-de-gong-zuo.md)
 * [吉光片羽](ji-guang-pian-yu/README.md)
+  * [職也有芽](ji-guang-pian-yu/zhi-ye-you-ya/README.md)
+    * [建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)
   * [生活碎屑](ji-guang-pian-yu/sheng-huo-sui-xie.md)
   * [書本折角](ji-guang-pian-yu/shu-ben-zhe-jiao.md)
   * [心的角落](ji-guang-pian-yu/xin-de-jiao-la/README.md)
