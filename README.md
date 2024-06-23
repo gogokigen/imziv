@@ -19,7 +19,24 @@ layout:
 
 ***
 
+## [意外的評價](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md)
+
+
+
+　　有門國際法的課要分組，我在跟組員互動的過程中得到了一些我有點意外的評價。
+
+* 細心
+* 溫柔，咦？
+
+　　很高興能夠有機會跟大家互動並且交流一些主觀想法。在以往生命經驗中，「交流想法」限縮在客觀的事情上，但是想要跟人建立比較深的信任感，交換主觀感受更能讓人認識真實的你。
+
+[( ...... )](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md)
+
+***
+
 ## [給大學的自己](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md)
+
+
 
 　　大家可能在出社會後會開始後悔選錯系、大學時候沒做什麼、想起大學時候的遺憾，所以會想跟當時的自己說點什麼。但我畢業後十年，我想科系給我再選一次我還是會做一樣的決定，這是我這輩子最棒的決定之一。但有些事可以做得更好：
 
@@ -108,25 +125,27 @@ Maccanti ( 馬卡諦 )
 
 ### 文章列表
 
-[給大學的自己](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md) _June 23, 2024_
+[意外的評價](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md) _June 23, 2024_
 
-[建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md) _June 19, 2024_
+[給大學的自己](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md)  _June 23, 2024_
 
-[拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md) _May 07, 2024_
+[建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)  _June 19, 2024_
 
-[好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md) _April 09, 2024_
+[拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md)  _May 07, 2024_
 
-[建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md) _April 07, 2024_
+[好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md)  _April 09, 2024_
 
-[薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md) _March 30, 2024_
+[建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)  _April 07, 2024_
 
-[本院不懂讀心術](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md) _March 29, 2024_
+[薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)  _March 30, 2024_
 
-[法學就很像數學？](ji-guang-pian-yu/xin-de-jiao-la/fa-xue-jiu-hen-xiang-shu-xue.md) _March 29, 2024_
+[本院不懂讀心術](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)  _March 29, 2024_
 
-[望子成龍，不如我成龍](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/wang-zi-cheng-long-bu-ru-wo-cheng-long.md) _March 27, 2024_
+[法學就很像數學？](ji-guang-pian-yu/xin-de-jiao-la/fa-xue-jiu-hen-xiang-shu-xue.md)  _March 29, 2024_
 
-[鮮奶冰淇淋](zan-zan-hao-wu/chi-chi-he-he/xian-nai-bing-qi-lin.md) _March 27, 2024_
+[望子成龍，不如我成龍](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/wang-zi-cheng-long-bu-ru-wo-cheng-long.md)  _March 27, 2024_
+
+[鮮奶冰淇淋](zan-zan-hao-wu/chi-chi-he-he/xian-nai-bing-qi-lin.md)  _March 27, 2024_
 
 ***
 
