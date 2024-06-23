@@ -19,6 +19,16 @@ layout:
 
 ***
 
+## [給大學的自己](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md)
+
+　　大家可能在出社會後會開始後悔選錯系、大學時候沒做什麼、想起大學時候的遺憾，所以會想跟當時的自己說點什麼。但我畢業後十年，我想科系給我再選一次我還是會做一樣的決定，這是我這輩子最棒的決定之一。但有些事可以做得更好：
+
+* 每學期不要修超過 20學分
+
+[( ...... )](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md)
+
+***
+
 ## [建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)
 
 
@@ -97,6 +107,8 @@ Maccanti ( 馬卡諦 )
 ***
 
 ### 文章列表
+
+[給大學的自己](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md) _June 23, 2024_
 
 [建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md) _June 19, 2024_
 
