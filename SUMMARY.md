@@ -32,6 +32,7 @@
     * [測試儀器自動化程式設計的工作](guan-yu-gong-cheng-shi-zhe-ge-fu-ben/shi-ren-ya-hui/ce-shi-yi-qi-zi-dong-hua-cheng-shi-she-ji-de-gong-zuo.md)
 * [吉光片羽](ji-guang-pian-yu/README.md)
   * [職也有芽](ji-guang-pian-yu/zhi-ye-you-ya/README.md)
+    * [刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)
     * [建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)
   * [生活碎屑](ji-guang-pian-yu/sheng-huo-sui-xie.md)
   * [書本折角](ji-guang-pian-yu/shu-ben-zhe-jiao.md)
