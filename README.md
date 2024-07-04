@@ -19,6 +19,20 @@ layout:
 
 ***
 
+## [刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)
+
+
+
+　　亞洲人對於刷題應該是相當熟悉。從小時候刷各式升學考試，到出社會換工作也要刷程式。這些事對我來說也是相當熟悉，但其實我還蠻熱衷某些領域的刷題。或應該是說，我如果確定我很喜歡這個東西，就會很沉浸在想要解決它。換句話說，我是因為想知道答案，所以願意去找資料及嘗試錯誤、忘記時間，最後給自己一個交代。因此，雖然有的刷題（也許，我們換個方式說，做題目或是大腦體操）是很享受的，不是因為之後會得到很多實際的獎賞，而是大腦會給獎勵。
+
+　　至於限時解題，就是乏害身心的事。
+
+　　至今對我來說，大概有三次的大刷題：
+
+[( ...... )](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)
+
+***
+
 ## [意外的評價](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md)
 
 
@@ -69,18 +83,6 @@ layout:
 
 ***
 
-## [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
-
-
-
-　　在以前當 TA，家教，或是補習班老師時候，常常在想像：如果我是我學生，到底有沒有聽懂我在講什麼？我這樣的說話方式，學生聽起來覺得如何？
-
-　　很神奇，我在這次校園生活的這學期一門課上，彷彿看到自己在講課。哈哈哈
-
-[( ...... )](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md)
-
-***
-
 ## [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
 
 <figure><img src=".gitbook/assets/reform_mathematics_minus.JPG" alt="" width="375"><figcaption></figcaption></figure>
@@ -125,6 +127,8 @@ Maccanti ( 馬卡諦 )
 
 ### 文章列表
 
+[刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)  _July 04, 2024_
+
 [意外的評價](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md) _June 23, 2024_
 
 [給大學的自己](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md)  _June 23, 2024_
@@ -142,10 +146,6 @@ Maccanti ( 馬卡諦 )
 [本院不懂讀心術](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)  _March 29, 2024_
 
 [法學就很像數學？](ji-guang-pian-yu/xin-de-jiao-la/fa-xue-jiu-hen-xiang-shu-xue.md)  _March 29, 2024_
-
-[望子成龍，不如我成龍](wo-bu-hui-jiao-xiao-hai/guan-cha-ti-hui/wang-zi-cheng-long-bu-ru-wo-cheng-long.md)  _March 27, 2024_
-
-[鮮奶冰淇淋](zan-zan-hao-wu/chi-chi-he-he/xian-nai-bing-qi-lin.md)  _March 27, 2024_
 
 ***
 
