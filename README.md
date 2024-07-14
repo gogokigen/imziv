@@ -19,6 +19,18 @@ layout:
 
 ***
 
+## [怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
+
+
+
+　　很少看醫療劇。這是我第一部看的醫療美劇，美國上映年分約：2004～2012。2024年初在 Taiwan Netflix上架。
+
+　　吸引我開始看這部長壽老劇的原因是有人說：這是一部辦公室政治劇。確實，在這部劇中，你可以從各種層面看到向上管理的手段，包含：各個團隊成員、中階主管 House、甚至是高階主管 Cuddy。我相信 ......
+
+[( ...... )](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
+
+***
+
 ## [高階健檢](zan-zan-hao-wu/shen-ti-jian-kang/gao-jie-jian-jian.md)
 
 
@@ -94,19 +106,6 @@ layout:
 
 ***
 
-## [拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md)
-
-
-
-（一） \
-　　債各老師這週發火，因為有同學上課一直拿手機拍黑板。其實，拍黑板的事老師之前就強調過了：不要錄影、等他離開中間時再拍。但是這次是－－非。常。鄭。重。地說不要這樣！不過，我最欣賞的是，老師直接說：「<mark style="color:red;">我不喜歡！</mark>」非常好！比起冠冕堂皇的說什麼些什麼理由解釋，直接說出心裡的感受，才是最重要最真實的原因。
-
-　　我好像可以理解這種不自在 ……
-
-[( …… )](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md)
-
-***
-
 ## [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
 
 <figure><img src=".gitbook/assets/reform_mathematics_minus.JPG" alt="" width="375"><figcaption></figcaption></figure>
@@ -151,6 +150,8 @@ Maccanti ( 馬卡諦 )
 
 ### 文章列表
 
+[怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)  _July 14, 2024_
+
 [高階健檢](zan-zan-hao-wu/shen-ti-jian-kang/gao-jie-jian-jian.md)  _June 21, 2024_
 
 [我的新法文家教](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)  _July 14, 2024_
@@ -168,10 +169,6 @@ Maccanti ( 馬卡諦 )
 [好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md)  _April 09, 2024_
 
 [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)  _April 07, 2024_
-
-[薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)  _March 30, 2024_
-
-[本院不懂讀心術](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)  _March 29, 2024_
 
 ***
 
