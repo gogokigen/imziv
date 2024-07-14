@@ -19,6 +19,18 @@ layout:
 
 ***
 
+## [我的新法文家教](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)
+
+
+
+　　身為一個非從小有環境學第二外語的人，在有點經濟能力後，我唯一推薦的方法就是：直接請母語家教。請家教的好處主要就是量身訂做自己想要的課程，另一個好處就是：可以知道母語人是如何思考各種議題、能夠了解課本或媒體外的真實聲音。
+
+再有一定程度後，拜科技所賜（另一方面是老師回國了），我現在轉換我的新家教： Perplexity + Peech + [conjugation.com](https://www.the-conjugation.com/french/)
+
+[( ...... )](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)
+
+***
+
 ## [刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)
 
 
@@ -127,6 +139,8 @@ Maccanti ( 馬卡諦 )
 
 ### 文章列表
 
+[我的新法文家教](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)  _July 14, 2024_
+
 [刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)  _July 04, 2024_
 
 [意外的評價](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md) _June 23, 2024_
@@ -144,8 +158,6 @@ Maccanti ( 馬卡諦 )
 [薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)  _March 30, 2024_
 
 [本院不懂讀心術](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)  _March 29, 2024_
-
-[法學就很像數學？](ji-guang-pian-yu/xin-de-jiao-la/fa-xue-jiu-hen-xiang-shu-xue.md)  _March 29, 2024_
 
 ***
 
