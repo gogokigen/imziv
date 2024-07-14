@@ -19,6 +19,18 @@ layout:
 
 ***
 
+## [高階健檢](zan-zan-hao-wu/shen-ti-jian-kang/gao-jie-jian-jian.md)
+
+
+
+考完期末考後，到台北醫學大學附設醫院健康管理中心體驗了高階健檢。其實一直都很想要花錢做看看，但一直都沒真的行動，想說每年有公司健檢就好，就拖到了今年。真的讓我動手預約的原因是：《這個，我不推》的主持人——Yuli 發現身體有狀況。我自己有些檢查其實也沒有認真在做，來去醫院用儀器檢查吧！
+
+　　健檢這件事一直都有在規劃，因為 ......
+
+[( ...... )](zan-zan-hao-wu/shen-ti-jian-kang/gao-jie-jian-jian.md)
+
+***
+
 ## [我的新法文家教](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)
 
 
@@ -138,6 +150,8 @@ Maccanti ( 馬卡諦 )
 ***
 
 ### 文章列表
+
+[高階健檢](zan-zan-hao-wu/shen-ti-jian-kang/gao-jie-jian-jian.md)  _June 21, 2024_
 
 [我的新法文家教](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)  _July 14, 2024_
 
