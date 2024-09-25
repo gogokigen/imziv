@@ -55,6 +55,7 @@
     * [薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)
     * [鮮奶冰淇淋](zan-zan-hao-wu/chi-chi-he-he/xian-nai-bing-qi-lin.md)
   * [🎮 休閒娛樂](zan-zan-hao-wu/xiu-xian-yu-le/README.md)
+    * [高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)
     * [怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
   * [🛋️ 家具家電](zan-zan-hao-wu/jia-ju-jia-dian.md)
   * [🏇 身體健康](zan-zan-hao-wu/shen-ti-jian-kang/README.md)
