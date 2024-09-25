@@ -19,6 +19,20 @@ layout:
 
 ***
 
+## [高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)
+
+
+
+今年是「紀伊山地の霊場と参詣道」登錄世界遺產20周年。
+
+　- [世界遺産「紀伊山地の霊場と参詣道」登録20周年記念](https://www.wakayama-kanko.or.jp/features/20th-koyasan-kumano/)
+
+　- [高野山世界遺產登錄20周年](https://otent-nankai.jp/feature/koyasan20th/index.html)
+
+[( ...... )](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)
+
+***
+
 ## [怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
 
 
@@ -149,6 +163,8 @@ Maccanti ( 馬卡諦 )
 ***
 
 ### 文章列表
+
+[高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)  _September 25, 2024_
 
 [怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)  _July 14, 2024_
 
