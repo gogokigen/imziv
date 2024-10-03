@@ -17,11 +17,15 @@ coverY: 0
 
 　　和歌山縣其實很大，大概可以分幾個區塊：和歌山市、白濱、熊野古道、高野山。這趟旅行主要是去高野山町拜訪大師。同時，因為世界遺產登錄20周年，高野山的景點有提供限量的御朱印，加上，2024.08.28 剛好是甲子日，也是大黑天的緣日，所以早在前一年就訂好機票了。
 
-　　這個地圖就是主要活動範圍，基本上只要搭纜車到高野山駅之後，有公車可以進到「大門」，之後這個區域都可以步行，非常愜意。
+　　這個地圖就是主要活動範圍，基本上只要搭纜車到高野山駅之後，有公車可以進到「大門」（大約是17、18、23），之後這個區域都可以步行，非常愜意。
 
 <figure><img src="../../.gitbook/assets/圖片.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/圖片 (1).png" alt=""><figcaption></figcaption></figure>
+
+### 限量御朱印
+
+<figure><img src="../../.gitbook/assets/IMG_0506.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 建議規劃
 
