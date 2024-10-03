@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/DSCF0313.JPG
+cover: ../../.gitbook/assets/金剛峰寺參道.JPG
 coverY: 0
 ---
 
@@ -29,19 +29,35 @@ coverY: 0
 \
 宿坊或精進料理可以直接從官網預定：[https://www.fukuchiin.com/](https://www.fukuchiin.com/)
 
+<figure><img src="../../.gitbook/assets/IMG_1169.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_1211.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_9519.JPG" alt=""><figcaption></figcaption></figure>
+
 
 
 ### 餐廳
 
 由於精進料理是素食（無蛋），如果不太適應，這邊也介紹一些好吃的有肉餐廳。
 
+
+
 **かすうどんの河内屋**\
 這間烏龍麵店靠近奧之院。推薦烏龍麵＋山椒飯糰！！山椒似乎也是高野山的特產。\
 [https://maps.app.goo.gl/jSMCJsxVmWCcoFSo9](https://maps.app.goo.gl/jSMCJsxVmWCcoFSo9)
 
+<figure><img src="../../.gitbook/assets/IMG_1248.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/IMG_1249.JPG" alt=""><figcaption></figcaption></figure>
+
+
+
 **丸高 マルタカ**\
 這間有賣美式餐點！！所以可以點到漢堡薯條等食物。薯條超好吃！！！店主是異國夫妻經營，店面很舒適，晚上似乎會變身成酒吧？\
 [https://maps.app.goo.gl/7LmhV3yHGLFJvQzY9](https://maps.app.goo.gl/7LmhV3yHGLFJvQzY9)
+
+<figure><img src="../../.gitbook/assets/IMG_1299.JPG" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,6 +68,10 @@ coverY: 0
 我們是從「高野山奥之院一の橋」開始做為起點，如果不習慣走路，可以搭車到「奥の院前」靠近「中の橋」附近下車，那邊開始走可以少 1小時。\
 奧之院是非常適合慢慢散步沉澱心思的好地方，如果時間允許，從「一の橋」開始很不錯的唷！
 
+<figure><img src="../../.gitbook/assets/DSCF0386.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/DSCF0384.JPG" alt=""><figcaption></figcaption></figure>
+
 
 
 **阿字觀**
@@ -60,11 +80,27 @@ coverY: 0
 \
 金剛峯寺有阿字觀，但日期上比較有限制，可以考慮參加惠光院的課程，而且有英文教學。\
 \
-當天真的很安靜，只聽到鳥叫與雨聲。配合老師教導吸氣與吐氣，脖子後腦後會開始漸漸發熱，其實很暢快，心情也平和起來。\
+當天飄著細雨，除了偶爾從屋簷低落的雨滴，只能聽到蟲鳴和越過屋頂的鳥鳴。配合老師教導吸氣與吐氣，脖子後腦後會開始漸漸發熱，其實很暢快，心情也平和起來。\
 \
-惠光院 [https://www.ekoin.jp/](https://www.ekoin.jp/)
+惠光院：[https://www.ekoin.jp/](https://www.ekoin.jp/)
 
 
+
+### 景點
+
+**壇上伽藍**
+
+<figure><img src="../../.gitbook/assets/壇上伽藍.JPG" alt=""><figcaption></figcaption></figure>
+
+**金剛峯寺**
+
+<figure><img src="../../.gitbook/assets/金剛峯寺1.JPG" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/DSCF0311.JPG" alt=""><figcaption></figcaption></figure>
+
+**靈寶館**
+
+<figure><img src="../../.gitbook/assets/IMG_9439.JPG" alt=""><figcaption></figcaption></figure>
 
 
 
