@@ -19,6 +19,15 @@ layout:
 
 ***
 
+## [高野山(こうやさん) 拜訪大師 2](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)
+
+\
+這篇介紹：住宿、餐廳、務必要做的活動
+
+[( ...... )](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)
+
+***
+
 ## [高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)
 
 
@@ -110,16 +119,6 @@ layout:
 
 ***
 
-## [建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)
-
-
-
-> A personal moat is a set of unique and accumulating competitive advantages in the context of your career. -- [Erik Torenberg](https://eriktorenberg.substack.com/p/build-personal-moats)
-
-[( ...... )](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)
-
-***
-
 ## [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
 
 <figure><img src=".gitbook/assets/reform_mathematics_minus.JPG" alt="" width="375"><figcaption></figcaption></figure>
@@ -148,7 +147,7 @@ Maccanti ( 馬卡諦 )
 
 ***
 
-## [<mark style="color:blue;">本院不懂讀心術</mark>](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)
+## [<mark style="color:blue;">本院不懂讀心術</mark>](you-yi-si-de-pan-jue/hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)
 
 
 
@@ -158,11 +157,13 @@ Maccanti ( 馬卡諦 )
 
 > ... 沒有證據可以證明被告不知道自己簽了什麼（**畢竟本院不懂讀心術**），而且對於意識清醒的人來說，**「不知道自己簽了什麼」並不是否認契約成立的正當理由**，因為這無異於主張自己是在沒有看清楚、問清楚、想清楚的狀況下先簽再說，事後發現契約對自己不利，再用自己簽約時的不看、不問、不懂為由，否認契約的拘束力，這無異是把誠信兩字丟到糞坑裡。**被告不要誠信，本院還要。**
 
-[<mark style="color:blue;">( ...... )</mark>](hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)
+[<mark style="color:blue;">( ...... )</mark>](you-yi-si-de-pan-jue/hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)
 
 ***
 
 ### 文章列表
+
+[高野山(こうやさん) 拜訪大師 2](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)  _October 03, 2024_
 
 [高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)  _September 25, 2024_
 
@@ -181,10 +182,6 @@ Maccanti ( 馬卡諦 )
 [建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)  _June 19, 2024_
 
 [拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md)  _May 07, 2024_
-
-[好像看到自己](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/hao-xiang-kan-dao-zi-ji.md)  _April 09, 2024_
-
-[建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)  _April 07, 2024_
 
 ***
 
