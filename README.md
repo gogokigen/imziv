@@ -1,10 +1,9 @@
 ---
-description: Only basic, no magic.
 layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: true
   outline:
@@ -15,34 +14,41 @@ layout:
 
 # Ziv
 
-是到了該寫點什麼增加地球碳排放量的年紀了
+***
+
+**Status**
+
+* 無業，快取得第 3個學位了
+
+**Reading**
+
+* 《我32次的放療，與吃喝玩樂》 / 黃榮堅
+
+**Thinking**
+
+* 以個人而言，究竟隱私被侵害到什麼程度才會願意去究責？
+
+**Place**
+
+* [高野山(こうやさん) 拜訪大師 2](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)
+* [高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)
+
+**Food**
+
+* [薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)
+* 柚子胡椒
+
+**Belief**
+
+* Only basic, no magic.
+* 學習基礎科學出身，堅信應該學習原理原則掌握架構，自然可以應對變幻莫測的世界。\
+  有了堅實的基底，至於要往什麼方向就隨心所欲，想要就去行動。
 
 ***
 
-## [高野山(こうやさん) 拜訪大師 2](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)
-
-\
-這篇介紹：住宿、餐廳、務必要做的活動
-
-[( ...... )](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)
-
 ***
 
-## [高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)
-
-
-
-今年是「紀伊山地の霊場と参詣道」登錄世界遺產20周年。
-
-　- [世界遺産「紀伊山地の霊場と参詣道」登録20周年記念](https://www.wakayama-kanko.or.jp/features/20th-koyasan-kumano/)
-
-　- [高野山世界遺產登錄20周年](https://otent-nankai.jp/feature/koyasan20th/index.html)
-
-[( ...... )](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)
-
-***
-
-## [怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
+### [怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
 
 
 
@@ -54,7 +60,7 @@ layout:
 
 ***
 
-## [高階健檢](zan-zan-hao-wu/shen-ti-jian-kang/gao-jie-jian-jian.md)
+### [高階健檢](zan-zan-hao-wu/shen-ti-jian-kang/gao-jie-jian-jian.md)
 
 
 
@@ -66,19 +72,7 @@ layout:
 
 ***
 
-## [我的新法文家教](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)
-
-
-
-　　身為一個非從小有環境學第二外語的人，在有點經濟能力後，我唯一推薦的方法就是：直接請母語家教。請家教的好處主要就是量身訂做自己想要的課程，另一個好處就是：可以知道母語人是如何思考各種議題、能夠了解課本或媒體外的真實聲音。
-
-再有一定程度後，拜科技所賜（另一方面是老師回國了），我現在轉換我的新家教： Perplexity + Peech + [conjugation.com](https://www.the-conjugation.com/french/)
-
-[( ...... )](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)
-
-***
-
-## [刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)
+### [刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)
 
 
 
@@ -92,34 +86,7 @@ layout:
 
 ***
 
-## [意外的評價](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md)
-
-
-
-　　有門國際法的課要分組，我在跟組員互動的過程中得到了一些我有點意外的評價。
-
-* 細心
-* 溫柔，咦？
-
-　　很高興能夠有機會跟大家互動並且交流一些主觀想法。在以往生命經驗中，「交流想法」限縮在客觀的事情上，但是想要跟人建立比較深的信任感，交換主觀感受更能讓人認識真實的你。
-
-[( ...... )](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md)
-
-***
-
-## [給大學的自己](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md)
-
-
-
-　　大家可能在出社會後會開始後悔選錯系、大學時候沒做什麼、想起大學時候的遺憾，所以會想跟當時的自己說點什麼。但我畢業後十年，我想科系給我再選一次我還是會做一樣的決定，這是我這輩子最棒的決定之一。但有些事可以做得更好：
-
-* 每學期不要修超過 20學分
-
-[( ...... )](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md)
-
-***
-
-## [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
+### [建構式數學](wo-bu-hui-jiao-xiao-hai/jiao-shu-xue/jian-gou-shi-shu-xue.md)
 
 <figure><img src=".gitbook/assets/reform_mathematics_minus.JPG" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -129,25 +96,7 @@ layout:
 
 ***
 
-## [薄荷巧克力 チョコミント](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)
-
-
-
-　　忘記怎麼開始喜歡上薄荷巧克力的，應該不是因為他是綠色的吧？可能是小時候非常躁熱，普通冰淇淋無法降溫，都要吃超級幹爆涼爽勁直沖天門的薄荷口味吧？
-
-　　這邊記錄我吃過推薦的薄荷巧克力冰淇淋或雪糕，以及根本就是在吃牙膏的爆雷款。
-
-#### 超級推推 <a href="#chao-ji-tui-tui" id="chao-ji-tui-tui"></a>
-
-Baskin-Robbins ( 31 冰淇淋 )
-
-Maccanti ( 馬卡諦 )
-
-[( ...... )](zan-zan-hao-wu/chi-chi-he-he/chokominto.md)
-
-***
-
-## [<mark style="color:blue;">本院不懂讀心術</mark>](you-yi-si-de-pan-jue/hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)
+### [<mark style="color:blue;">本院不懂讀心術</mark>](you-yi-si-de-pan-jue/hao-hao-xiao-de-pan-jue-shu/min-shi/ben-yuan-bu-dong-du-xin-shu.md)
 
 
 
@@ -161,7 +110,7 @@ Maccanti ( 馬卡諦 )
 
 ***
 
-### 文章列表
+## 最近文章
 
 [高野山(こうやさん) 拜訪大師 2](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)  _October 03, 2024_
 
@@ -173,19 +122,9 @@ Maccanti ( 馬卡諦 )
 
 [我的新法文家教](ji-guang-pian-yu/sheng-huo-sui-xie/wo-de-xin-fa-wen-jia-jiao.md)  _July 14, 2024_
 
-[刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)  _July 04, 2024_
-
-[意外的評價](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/yi-wai-de-ping-jia.md) _June 23, 2024_
-
-[給大學的自己](fa-xue-yuan-sheng-huo-shi-lu/shi-wu-jian-wen/gei-da-xue-de-zi-ji.md)  _June 23, 2024_
-
-[建立個人護城河](ji-guang-pian-yu/zhi-ye-you-ya/jian-li-ge-ren-hu-cheng-he.md)  _June 19, 2024_
-
-[拍照二三事](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/pai-zhao-er-san-shi.md)  _May 07, 2024_
-
 ***
 
-### 好用連結
+## 好用連結
 
 [勞工常見問題](https://laborlaw.imziv.tw)
 
