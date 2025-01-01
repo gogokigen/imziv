@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/金剛峰寺參道.JPG
+cover: ../../.gitbook/assets/DSCF0313.JPG
 coverY: 0
 ---
 

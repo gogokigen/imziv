@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/金剛峰寺參道.JPG
+cover: ../../.gitbook/assets/DSCF0313.JPG
 coverY: 0
 ---
 
@@ -21,11 +21,11 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/圖片.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2024世界遺產登陸20周年活動場所.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/圖片 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 限量御朱印
 
-<figure><img src="../../.gitbook/assets/2024限量御朱印.PNG" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_0506.PNG" alt="" width="563"><figcaption></figcaption></figure>
 
 ### 建議規劃
 
