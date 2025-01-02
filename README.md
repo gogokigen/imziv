@@ -114,6 +114,8 @@ layout:
 
 ## 最近文章
 
+[高中與大學的斷裂](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/gao-zhong-yu-da-xue-de-duan-lie.md)  _January 02, 2025_
+
 [高野山(こうやさん) 拜訪大師 2](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)  _October 03, 2024_
 
 [高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)  _September 25, 2024_
