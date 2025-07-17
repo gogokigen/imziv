@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # Ziv
 
 ***
@@ -55,6 +41,16 @@ layout:
 
 ## 私心偏愛
 
+### [遇到不當解雇應如何處理](sheng-huo-fa-l/lao-dong-xiang-guan/yu-dao-bu-dang-jie-gu-ying-ru-he-chu-li.md)
+
+
+
+1. 用存證信函表示拒絕離職，並以言詞提出勞務給付。
+
+[( ...... )](sheng-huo-fa-l/lao-dong-xiang-guan/yu-dao-bu-dang-jie-gu-ying-ru-he-chu-li.md)
+
+***
+
 ### [怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
 
 
@@ -76,20 +72,6 @@ layout:
 　　健檢這件事一直都有在規劃，因為 ......
 
 [( ...... )](zan-zan-hao-wu/shen-ti-jian-kang/gao-jie-jian-jian.md)
-
-***
-
-### [刷題 := 大腦體操](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)
-
-
-
-　　亞洲人對於刷題應該是相當熟悉。從小時候刷各式升學考試，到出社會換工作也要刷程式。這些事對我來說也是相當熟悉，但其實我還蠻熱衷某些領域的刷題。或應該是說，我如果確定我很喜歡這個東西，就會很沉浸在想要解決它。換句話說，我是因為想知道答案，所以願意去找資料及嘗試錯誤、忘記時間，最後給自己一個交代。因此，雖然有的刷題（也許，我們換個方式說，做題目或是大腦體操）是很享受的，不是因為之後會得到很多實際的獎賞，而是大腦會給獎勵。
-
-　　至於限時解題，就是乏害身心的事。
-
-　　至今對我來說，大概有三次的大刷題：
-
-[( ...... )](ji-guang-pian-yu/zhi-ye-you-ya/shua-ti-da-nao-ti-cao.md)
 
 ***
 
@@ -118,6 +100,8 @@ layout:
 ***
 
 ## 最近文章
+
+[遇到不當解雇應如何處理](sheng-huo-fa-l/lao-dong-xiang-guan/yu-dao-bu-dang-jie-gu-ying-ru-he-chu-li.md)  _July 17, 2025_
 
 [勞工可以轉寄資料到私人信箱嗎](sheng-huo-fa-l/lao-dong-xiang-guan/lao-gong-ke-yi-zhuan-ji-zi-liao-dao-si-ren-xin-xiang-ma.md)  _June 25, 2025_
 
