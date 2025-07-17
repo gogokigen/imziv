@@ -17,6 +17,7 @@
   * [親屬繼承](sheng-huo-fa-l/qin-shu-ji-cheng/README.md)
     * [如何到法院登記：約定財產制](sheng-huo-fa-l/qin-shu-ji-cheng/ru-he-dao-fa-yuan-deng-ji-yue-ding-cai-chan-zhi.md)
   * [勞動相關](sheng-huo-fa-l/lao-dong-xiang-guan/README.md)
+    * [遇到不當解雇應如何處理](sheng-huo-fa-l/lao-dong-xiang-guan/yu-dao-bu-dang-jie-gu-ying-ru-he-chu-li.md)
     * [勞工可以轉寄資料到私人信箱嗎](sheng-huo-fa-l/lao-dong-xiang-guan/lao-gong-ke-yi-zhuan-ji-zi-liao-dao-si-ren-xin-xiang-ma.md)
 * [法學院生活實錄](fa-xue-yuan-sheng-huo-shi-lu/README.md)
   * [學校生活](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/README.md)
