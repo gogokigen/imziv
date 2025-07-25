@@ -52,7 +52,7 @@
 
 ### 4. 有跟勞工書面約定就可以適用責任制？
 
-⇒ No!! <mark style="color:$primary;">要書面約定 +</mark> <mark style="color:orange;">特定產業</mark>的<mark style="color:orange;">特定勞工</mark>才適用
+⇒ No!! <mark style="color:orange;">特定產業</mark>的<mark style="color:orange;">特定勞工</mark>才適用，且要<mark style="color:orange;">書面約定</mark>
 
 ### 5. 符合主管機關公布的特定產業的勞工一律都適用責任制？
 
