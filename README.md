@@ -101,6 +101,8 @@
 
 ## 最近文章
 
+[責任制的適用範圍](sheng-huo-fa-l/lao-dong-xiang-guan/ze-ren-zhi-de-shi-yong-fan-wei.md)  _July 25, 2025_
+
 [遇到不當解雇應如何處理](sheng-huo-fa-l/lao-dong-xiang-guan/yu-dao-bu-dang-jie-gu-ying-ru-he-chu-li.md)  _July 17, 2025_
 
 [勞工可以轉寄資料到私人信箱嗎](sheng-huo-fa-l/lao-dong-xiang-guan/lao-gong-ke-yi-zhuan-ji-zi-liao-dao-si-ren-xin-xiang-ma.md)  _June 25, 2025_
@@ -108,10 +110,6 @@
 [如何到法院登記：約定財產制](sheng-huo-fa-l/qin-shu-ji-cheng/ru-he-dao-fa-yuan-deng-ji-yue-ding-cai-chan-zhi.md)  _June 24, 2025_
 
 [高中與大學的斷裂](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/gao-zhong-yu-da-xue-de-duan-lie.md)  _January 02, 2025_
-
-[高野山(こうやさん) 拜訪大師 2](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-2.md)  _October 03, 2024_
-
-[高野山(こうやさん) 拜訪大師 1](zan-zan-hao-wu/xiu-xian-yu-le/kouyasan-1.md)  _September 25, 2024_
 
 ***
 
