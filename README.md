@@ -4,7 +4,7 @@
 
 **Status**
 
-* 在思考下一個職位該往什麼方向
+* 公司法務
 * 取得第 3 個學位了 = 法學士 + 理學碩 + 理學士
 
 **Interests**
@@ -41,6 +41,16 @@
 
 ## 私心偏愛
 
+### [求職時的就業歧視提問](sheng-huo-fa-l/lao-dong-xiang-guan/qiu-zhi-shi-de-jiu-ye-qi-shi-ti-wen.md)
+
+
+
+跟「真實職業資格』無關的就不能問！
+
+[( ...... )](sheng-huo-fa-l/lao-dong-xiang-guan/qiu-zhi-shi-de-jiu-ye-qi-shi-ti-wen.md)
+
+***
+
 ### [遇到不當解雇應如何處理](sheng-huo-fa-l/lao-dong-xiang-guan/yu-dao-bu-dang-jie-gu-ying-ru-he-chu-li.md)
 
 
@@ -48,18 +58,6 @@
 1. 用存證信函表示拒絕離職，並以言詞提出勞務給付。
 
 [( ...... )](sheng-huo-fa-l/lao-dong-xiang-guan/yu-dao-bu-dang-jie-gu-ying-ru-he-chu-li.md)
-
-***
-
-### [怪醫豪斯 House, M.D](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
-
-
-
-　　很少看醫療劇。這是我第一部看的醫療美劇，美國上映年分約：2004～2012。2024年初在 Taiwan Netflix上架。
-
-　　吸引我開始看這部長壽老劇的原因是有人說：這是一部辦公室政治劇。確實，在這部劇中，你可以從各種層面看到向上管理的手段，包含：各個團隊成員、中階主管 House、甚至是高階主管 Cuddy。我相信 ......
-
-[( ...... )](zan-zan-hao-wu/xiu-xian-yu-le/guai-yi-hao-si-house-m.d.md)
 
 ***
 
@@ -101,6 +99,8 @@
 
 ## 最近文章
 
+[求職時的就業歧視提問](sheng-huo-fa-l/lao-dong-xiang-guan/qiu-zhi-shi-de-jiu-ye-qi-shi-ti-wen.md)  _September 05, 2025_
+
 [責任制的適用範圍](sheng-huo-fa-l/lao-dong-xiang-guan/ze-ren-zhi-de-shi-yong-fan-wei.md)  _July 25, 2025_
 
 [遇到不當解雇應如何處理](sheng-huo-fa-l/lao-dong-xiang-guan/yu-dao-bu-dang-jie-gu-ying-ru-he-chu-li.md)  _July 17, 2025_
@@ -108,8 +108,6 @@
 [勞工可以轉寄資料到私人信箱嗎](sheng-huo-fa-l/lao-dong-xiang-guan/lao-gong-ke-yi-zhuan-ji-zi-liao-dao-si-ren-xin-xiang-ma.md)  _June 25, 2025_
 
 [如何到法院登記：約定財產制](sheng-huo-fa-l/qin-shu-ji-cheng/ru-he-dao-fa-yuan-deng-ji-yue-ding-cai-chan-zhi.md)  _June 24, 2025_
-
-[高中與大學的斷裂](fa-xue-yuan-sheng-huo-shi-lu/xue-xiao-sheng-huo/gao-zhong-yu-da-xue-de-duan-lie.md)  _January 02, 2025_
 
 ***
 
